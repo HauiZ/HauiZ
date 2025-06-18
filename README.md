@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HauiZ)
 
-![Anurag's GitHub stats](https://Backend_CVW.app/api?username=HauiZ&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://Backend_CVW.vercel.app/api?username=HauiZ&theme=dark&show_icons=true)
