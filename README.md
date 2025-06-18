@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Nguyễn Trung Hậu
 
-A Computer Science student who enjoys building real-world systems, learning backend development, and applying AI into practical projects.
+🎓 I'm an Information Technology student passionate about web development.  
+🔧 I focus on backend systems while also learning frontend to build fullstack applications.  
+🤖 Interested in applying AI into real-world projects.
 
 ---
 
