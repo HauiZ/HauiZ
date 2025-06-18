@@ -9,7 +9,7 @@ A Computer Science student who enjoys building real-world systems, learning back
 - 🌐 React | HTML | CSS | TailwindCSS
 - 📂 RESTful API | JWT | Google Drive API
 - 🤖 Python | Machine Learning | Pandas | Scikit-learn
-- 🛠️ Tools: Git, VSCode, Postman, Docker
+- 🛠️ Tools: Git, VSCode, Postman, Swagger, Docker
 
 ---
 
@@ -23,7 +23,7 @@ A Computer Science student who enjoys building real-world systems, learning back
 
 ### 🚀 Featured Projects
 
-[![Backend_CVW](https://github-readme-stats.vercel.app/api/pin/?username=HauiZ&repo=Backend_CVW&show_icons=true&theme=dark)](https://github.com/HauiZ/Backend_CVW)
+[![Backend_CVW](https://github-readme-stats.vercel.app/api/pin/?username=HauiZ&repo=Backend_CVW&show_icons=true&theme=radical)](https://github.com/HauiZ/Backend_CVW)
 
 [![Cv-Website](https://github-readme-stats.vercel.app/api/pin/?username=HauiZ&repo=Cv-Website&show_icons=true&theme=dark)](https://github.com/HauiZ/Cv-Website)
 
