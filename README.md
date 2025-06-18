@@ -15,7 +15,7 @@ A Computer Science student who enjoys building real-world systems, learning back
 
 ### 📈 GitHub Stats
 
-![HauiZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=HauiZ&theme=ambient_gradient&show_icons=true&count_private=true)
+![HauiZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=HauiZ&theme=transparent&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HauiZ&layout=compact&theme=dark)
 
