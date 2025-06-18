@@ -23,9 +23,9 @@ A Computer Science student who enjoys building real-world systems, learning back
 
 ### 🚀 Featured Projects
 
-[![Backend_CVW](https://github-readme-stats.vercel.app/api/pin/?username=HauiZ&repo=Backend_CVW&theme=dark)](https://github.com/HauiZ/Backend_CVW)
+[![Backend_CVW](https://github-readme-stats.vercel.app/api/pin/?username=HauiZ&repo=Backend_CVW&show_icons=true&theme=dark)](https://github.com/HauiZ/Backend_CVW)
 
-[![Cv-Website](https://github-readme-stats.vercel.app/api/pin/?username=HauiZ&repo=Cv-Website&theme=dark)](https://github.com/HauiZ/Cv-Website)
+[![Cv-Website](https://github-readme-stats.vercel.app/api/pin/?username=HauiZ&repo=Cv-Website&show_icons=true&theme=dark)](https://github.com/HauiZ/Cv-Website)
 
 ---
 
